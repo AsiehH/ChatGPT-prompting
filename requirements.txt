@@ -1,0 +1,6 @@
+openai
+ipykernel
+jupyter
+ipywidgets
+redlines
+panel
