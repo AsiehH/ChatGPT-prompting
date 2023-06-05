@@ -4,3 +4,5 @@ jupyter
 ipywidgets
 redlines
 panel
+python-dotenv
+tiktoken
